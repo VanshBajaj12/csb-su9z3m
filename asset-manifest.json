@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://vanshbajaj12.github.io/csb-su9z3m/static/css/main.e3ab5da0.chunk.css",
+    "main.js": "https://vanshbajaj12.github.io/csb-su9z3m/static/js/main.e8f5ef4e.chunk.js",
+    "main.js.map": "https://vanshbajaj12.github.io/csb-su9z3m/static/js/main.e8f5ef4e.chunk.js.map",
+    "runtime-main.js": "https://vanshbajaj12.github.io/csb-su9z3m/static/js/runtime-main.e27d7c74.js",
+    "runtime-main.js.map": "https://vanshbajaj12.github.io/csb-su9z3m/static/js/runtime-main.e27d7c74.js.map",
+    "static/js/2.491408f5.chunk.js": "https://vanshbajaj12.github.io/csb-su9z3m/static/js/2.491408f5.chunk.js",
+    "static/js/2.491408f5.chunk.js.map": "https://vanshbajaj12.github.io/csb-su9z3m/static/js/2.491408f5.chunk.js.map",
+    "index.html": "https://vanshbajaj12.github.io/csb-su9z3m/index.html",
+    "static/css/main.e3ab5da0.chunk.css.map": "https://vanshbajaj12.github.io/csb-su9z3m/static/css/main.e3ab5da0.chunk.css.map",
+    "static/js/2.491408f5.chunk.js.LICENSE.txt": "https://vanshbajaj12.github.io/csb-su9z3m/static/js/2.491408f5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e27d7c74.js",
+    "static/js/2.491408f5.chunk.js",
+    "static/css/main.e3ab5da0.chunk.css",
+    "static/js/main.e8f5ef4e.chunk.js"
+  ]
+}
